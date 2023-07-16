@@ -1,6 +1,6 @@
-This repository contains supplementary material and data of our BioNLP paper:
+This (temporary, the permanent one will be found at https://data.csiro.au/collection/csiro:59208) repository contains supplementary material and data from our BioNLP paper:
 
-> Skyler Zou, Xiang Dai, Sarvnaz Karimi, Pennie Taylor and Grant Brinkworth. 2023. Can Social Media Inform Dietary Approaches for Health Management? A Dataset and Benchmark for Low-Carb Diet. In BioNLP@ACL, Toronto, Canada.
+> Skyler Zou, Xiang Dai, Sarvnaz Karimi, Pennie Taylor, and Grant Brinkworth. 2023. Can Social Media Inform Dietary Approaches for Health Management? A Dataset and Benchmark for Low-Carb Diet. In BioNLP@ACL, Toronto, Canada.
 
 Please cite this paper if you use the data.
 
